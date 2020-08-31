@@ -93,7 +93,7 @@ The SignalR server library is included in the ASP.NET Core 3.0 shared framework.
 
 * In the **Add Client-Side Library** dialog, for **Provider** select **unpkg**.
 
-* For **Library**, enter `@microsoft/signalr@latest`.
+* For **Library**, enter `@microsoft/signalr@latest`. alternative '@aspnet/signalr@latest'.
 
 * Select **Choose specific files**, expand the *dist/browser* folder, and select *signalr.js* and *signalr.min.js*.
 
